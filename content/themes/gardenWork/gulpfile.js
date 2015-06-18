@@ -1,5 +1,5 @@
 // REQUIRED SETTINGS
-var siteUrl = 'example.dev';
+var siteUrl = 'gardening-work.dev';
 
 // Include gulp
 var gulp = require('gulp');

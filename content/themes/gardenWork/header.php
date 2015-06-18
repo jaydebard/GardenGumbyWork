@@ -26,7 +26,7 @@
 
 	<header id="masthead" class="site-header" role="banner">
 
-
+	<h1>Gardening Work</h1>
 
 	</header><!-- #masthead -->
 
